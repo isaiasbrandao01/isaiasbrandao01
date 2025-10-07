@@ -1,16 +1,18 @@
-## Hi there 👋
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<!--
-**isaiasbrandao01/isaiasbrandao01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👨🏻‍🚀 Olá, Mundo ! Eu me chamo Isaias Brandão ! 🖖🏻
 
-Here are some ideas to get you started:
+💫 Sou apaixonado em programação e tecnologia  🖥️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💫 Estou em Busca de estágio para aprimorar meus conhecimentos  🔎
+
+💫 Sou formado em Análise e Desevolvimento de Sistemas  🎓
+
+💫 Iniciei a faculdade de Tecnologia em Inteligência Artificial  🧠
+
+# 🚀 Ferramentas de desevolvimento 
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=visualstudio" />
+  </a>
+</p>
