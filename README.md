@@ -16,7 +16,8 @@
     <img src="https://skillicons.dev/icons?i=visualstudio" />
   </a>
 </p>
-### 📱 Minhas redes:
+
+# 📱 Minhas redes:
 
 <p align="left">
   <a href="www.linkedin.com/in/isaías-brandão-2ba8201a2" title="LinkedIn">
