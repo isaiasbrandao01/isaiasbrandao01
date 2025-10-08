@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-# 👨🏻‍🚀 Olá, Mundo ! Eu me chamo Isaias Brandão ! 🖖🏻
+## 👨🏻‍🚀 Olá Mundo ! Eu me chamo Isaias Brandão ! 🖖🏻
 
 💫 Sou apaixonado em programação e tecnologia  🖥️
 
@@ -10,16 +10,21 @@
 
 💫 Iniciei a faculdade de Tecnologia em Inteligência Artificial  🧠
 
-# 🚀 Ferramentas de desevolvimento 
+## 🚀 Minhas habilidades
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=visualstudio" />
-    <img src="https://skillicons.dev/icons?i=py" />
-    
+    <img src="https://skillicons.dev/icons?i=cs,py,html,css" />
   </a>
 </p>
 
-# 📱 Minhas redes:
+## 🛠️ Ferramentas de desevolvimento 
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=visualstudio" />
+  </a>
+</p>
+
+## 📱 Minhas redes:
 
 <p align="left">
   <a href="www.linkedin.com/in/isaías-brandão-2ba8201a2" title="LinkedIn">
